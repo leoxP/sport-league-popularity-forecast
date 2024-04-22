@@ -32,9 +32,13 @@ To run this project, follow these steps:
 
 1. Clone this repository to your local machine.
 2. Install the required dependencies using the following command:
+```bash
 pip install -r requirements.txt
+```
 3. Run the main script `forecasting_models.py` to execute the time series forecasting models.
+```bash
 python forecasting_models.py
+```
 
 ## File Descriptions
 
