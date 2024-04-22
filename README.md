@@ -35,16 +35,7 @@ To run this project, follow these steps:
 ```bash
 pip install -r requirements.txt
 ```
-3. Run the main script `forecasting_models.py` to execute the time series forecasting models.
-```bash
-python forecasting_models.py
-```
-
-## File Descriptions
-
-- `forecasting_models.py`: Contains the implementation of various time series forecasting models.
-- `data.csv`: Sample historical data on sports popularity metrics.
-- `README.md`: This file.
+3. Run the file `forecasting.ipynb` to execute the time series forecasting models.
 
 ## Requirements
 
@@ -58,4 +49,4 @@ python forecasting_models.py
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Creative Commons Zero v1.0 Universal License - see the [LICENSE](LICENSE) file for details.
